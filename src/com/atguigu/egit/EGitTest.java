@@ -6,6 +6,7 @@ public class EGitTest {
 		System.out.println("aaaa");
 		System.out.println("bbbbb");
 		System.out.println("cccc");
+		System.out.println("dddd");
 	}
 
 }
